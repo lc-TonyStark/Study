@@ -1,1 +1,1 @@
-docker pull whyour/qinglong:cache-debian-python3.10
+FROM whyour/qinglong:cache-debian-python3.10
