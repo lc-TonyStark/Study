@@ -1,1 +1,1 @@
-FROM node:16.14.0-alpine3.15
+docker pull emqx/emqx:5.8.5
